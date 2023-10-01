@@ -1,0 +1,21 @@
+---
+title: "Quarto Presentation Demo"
+author:
+  - name: "Chenxin"
+date: "2023-10-01"
+format: 
+  revealjs:
+    navigation-mode: vertical
+---
+
+# Slide 1
+
+## Slide 1.1
+
+## Slide 1.2
+
+# Slide 2
+
+## Slide 2.1
+
+## Slide 2.2
